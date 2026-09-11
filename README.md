@@ -126,6 +126,6 @@ Apache License 2.0.
 ## Test
 
 ```bash
-clojure -M:test   # cognitect test-runner
-clojure -M:lint   # clj-kondo, --fail-level error
+kbb -M:test   # cognitect test-runner
+kbb -M:lint   # clj-kondo, --fail-level error
 ```
